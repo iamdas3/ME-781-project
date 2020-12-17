@@ -9,4 +9,5 @@ With the advancement of technology, we have starting trusting machines and codes
 ## Execution of the project
 ### The project is done in 2 parts:
 #### 1. Exploratory Data Analysis
-Here we analysed each parameter, their correlation with other parameters. Various graphs have been plotted pertaining to the 
+Here we analysed each parameter, their correlation with other parameters. Various graphs have been plotted pertaining to the usefulness of each parameter. Box plots show the distribution of each parameter; violin plots show how realated are 2 parameters. Based on these plots and correlations; we tried to figure out which are the most useful parameters to detect whether a person will default or not.
+
